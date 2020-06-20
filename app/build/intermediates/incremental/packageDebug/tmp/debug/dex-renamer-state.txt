@@ -1,4 +1,4 @@
-#Fri Jun 19 11:35:59 BDT 2020
-base.0=C\:\\Users\\SHIMUL\\AndroidStudioProjects\\anotherFirstApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Sat Jun 20 20:19:44 BDT 2020
+base.0=C\:\\Users\\SHIMUL\\AndroidStudioProjects\\anotherFirstApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -19,7 +19,7 @@
 14        android:allowBackup="true"
 14-->C:\Users\SHIMUL\AndroidStudioProjects\anotherFirstApp\app\src\main\AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.1.0] C:\Users\SHIMUL\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.1.0] C:\Users\SHIMUL\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:icon="@mipmap/ic_launcher"
 17-->C:\Users\SHIMUL\AndroidStudioProjects\anotherFirstApp\app\src\main\AndroidManifest.xml:9:9-43
